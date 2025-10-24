@@ -1,0 +1,26 @@
+bash: line 1: /opt/devkitpro/devkitARM/bin/arm-none-eabi-gcc: cannot execute: required file not found
+bash: line 1: /opt/devkitpro/devkitARM/bin/arm-none-eabi-gcc: cannot execute: required file not found
+bash: line 1: /opt/devkitpro/devkitARM/bin/arm-none-eabi-gcc: cannot execute: required file not found
+bash: line 1: /opt/devkitpro/devkitARM/bin/arm-none-eabi-gcc: cannot execute: required file not found
+bash: line 1: /opt/devkitpro/devkitARM/bin/arm-none-eabi-gcc: cannot execute: required file not found
+bash: line 1: /opt/devkitpro/devkitARM/bin/arm-none-eabi-gcc: cannot execute: required file not found
+bash: line 1: /opt/devkitpro/devkitARM/bin/arm-none-eabi-gcc: cannot execute: required file not found
+bash: line 1: /opt/devkitpro/devkitARM/bin/arm-none-eabi-gcc: cannot execute: required file not found
+tools/scaninc/scaninc -M build/modern/src/pokedex.d -I include -I tools/agbcc/include src/pokedex.c
+bash: line 1: tools/scaninc/scaninc: cannot execute: required file not found
+tools/gbagfx/gbagfx graphics/pokedex/region_map.png graphics/pokedex/region_map.8bpp -num_tiles 232 -Wnum_tiles
+tools/compresSmol/compresSmolTilemap graphics/pokedex/region_map.bin graphics/pokedex/region_map.bin.smolTM
+tools/gbagfx/gbagfx graphics/pokedex/region_map.pal graphics/pokedex/region_map.gbapal
+tools/gbagfx/gbagfx graphics/pokedex/region_map_affine.png graphics/pokedex/region_map_affine.8bpp -num_tiles 233 -Wnum_tiles
+bash: line 1: tools/gbagfx/gbagfx: cannot execute: required file not found
+tools/compresSmol/compresSmolTilemap graphics/pokedex/region_map_affine.bin graphics/pokedex/region_map_affine.bin.smolTM
+bash: line 1: tools/compresSmol/compresSmolTilemap: cannot execute: required file not found
+make: *** [graphics_file_rules.mk:653: graphics/pokedex/region_map.8bpp] Error 127
+make: *** Waiting for unfinished jobs....
+make: *** [Makefile:373: graphics/pokedex/region_map.bin.smolTM] Error 127
+bash: line 1: tools/gbagfx/gbagfx: cannot execute: required file not found
+bash: line 1: tools/gbagfx/gbagfx: cannot execute: required file not found
+make: *** [Makefile:370: graphics/pokedex/region_map.gbapal] Error 127
+bash: line 1: tools/compresSmol/compresSmolTilemap: cannot execute: required file not found
+make: *** [graphics_file_rules.mk:656: graphics/pokedex/region_map_affine.8bpp] Error 127
+make: *** [Makefile:373: graphics/pokedex/region_map_affine.bin.smolTM] Error 127

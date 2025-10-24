@@ -1,0 +1,215 @@
+Name: Toadette | Species: Shroomish | Category: Season 3
+Name: Toadette | Species: Breloom | Category: Season 3
+Name: SneeSnoo | Species: Panpour | Category: Season 5 
+Name: SneeSnoo | Species: Simipour | Category: Season 5 
+Name: Tingyun | Species: Vulpix | Category: Season 6 | 
+Name: Tingyun | Species: Ninetales | Category: Season 6 
+Name: Chic P. | Species: Chikorita | Category: Veterans
+Name: Chic P. | Species: Bayleef | Category: Veterans
+Name: Chic P. | Species: Meganium | Category: Veterans
+Name: LinguinePR | Species: Piplup | Category: Season 4
+Name: LinguinePR | Species: Prinplup | Category: Season 4
+Name: LinguinePR | Species: Empoleon | Category: Season 4
+Name: Koko | Species: Treecko | Category: Season 3
+Name: Koko | Species: Grovyle | Category: Season 3
+Name: Koko | Species: Sceptile | Category: Season 3
+Name: Delphaba | Species: Fennekin | Category: Season 5
+Name: Delphaba | Species: Braixen | Category: Season 5
+Name: Delphaba | Species: Delphox | Category: Season 5
+Name: Calypsa | Species: Popplio | Category: Season 7
+Name: Calypsa | Species: Brionne | Category: Season 7
+Name: Calypsa | Species: Primarina | Category: Season 7
+Name: Thee Chic | Species: Torchic | Category: Season 6
+Name: Thee Chic | Species: Combusken | Category: Season 6
+Name: Thee Chic | Species: Blaziken | Category: Season 6
+Name: ITZY | Species: Weedle | Category: Veterans
+Name: ITZY | Species: Kakuna | Category: Veterans
+Name: ITZY | Species: Beedrill | Category: Veterans
+Name: Chanel | Species: Wurmple | Category: Season 4
+Name: Chanel | Species: Silcoon | Category: Season 4
+Name: Chanel | Species: Beautifly | Category: Season 4
+Name: Yves | Species: Wurmple | Category: Season 6
+Name: Yves | Species: Cascoon | Category: Season 6
+Name: Yves | Species: Dustox | Category: Season 6
+Name: Vivienne W. | Species: Scatterbug | Category: Season 5
+Name: Vivienne W. | Species: Spewpa | Category: Season 5
+Name: Vivienne W. | Species: Vivillion | Category: Season 5
+Name: LedyBaBa | Species: Ledyba | Category: Season 5
+Name: LedyBaBa | Species: Ledian | Category: Season 5
+Name: Bidookie | Species: Bidoof | Category: Season 4
+Name: Bidookie | Species: Bibarel | Category: Season 4
+Name: Brioche | Species: Sentret | Category: Season 6
+Name: Brioche | Species: Furret | Category: Season 6
+Name: TRIX | Species: Bunnelby | Category: Season 5
+Name: TRIX | Species: Diggersby | Category: Season 5
+Name: So Julia | Species: Buneary | Category: Season 4
+Name: So Julia | Species: Lopunny | Category: Season 4
+Name: Bore Worm | Species: Burmy | Category: Season 5
+Name: Bore Worm | Species: Mothim | Category: Season 5
+Name: Just Jade | Species: Oddish | Category: Season 6
+Name: Just Jade | Species: Gloom | Category: Season 6
+Name: Just Jade | Species: Bellossom | Category: Season 6
+Name: Eden | Species: Hoppip | Category: Season 5
+Name: Eden | Species: Skiploom | Category: Season 5
+Name: Eden | Species: Jumpluff | Category: Season 5
+Name: Labugbu | Species: Cutiefly | Category: Season 7
+Name: Labugbu | Species: Ribombee | Category: Season 7
+Name: Bri | Species: Nidoran F | Category: Veterans
+Name: Bri | Species: Nidorina | Category: Veterans
+Name: Bri | Species: Nidoqueen | Category: Veterans
+Name: Jet2 | Species: Pikipek | Category: Season 7
+Name: Jet2 | Species: Trumbreak | Category: Season 7
+Name: Jet2 | Species: Toucannon | Category: Season 7
+Name: Blush | Species: Skitty | Category: Season 3
+Name: Blush | Species: Delcatty | Category: Season 3  
+Name: Missy | Species: Poochyena | Category: Season 3
+Name: Missy | Species: Mightyena | Category: Season 3
+Name: Tiny | Species: Whismur | Category: Season 3
+Name: Tiny | Species: Loudred | Category: Season 3
+Name: Tiny | Species: Exploud | Category: Season 3
+Name: Bambalina | Species: Snubbull | Category: Season 5
+Name: Bambalina | Species: Granbull | Category: Season 5
+Name: Daphne Rose | Species: Corsola | Category: Season 6
+Name: Toad | Species: Lotad | Category: Season 3
+Name: Toad | Species: Lombre | Category: Season 3
+Name: Toad | Species: Ludicolo | Category: Season 3
+Name: Shimmer | Species: Clamperl | Category: Season 6
+Name: Shimmer | Species: Gorebyss | Category: Season 6
+Name: Paris | Species: Furfrou | Category: Season 5
+Name: No-ehl | Species: Zubat | Category: Veterans
+Name: No-ehl | Species: Golbat | Category: Veterans
+Name: No-ehl | Species: Crobat | Category: Veterans
+Name: Pancake | Species: Pichu | Category: Season 7
+Name: Pancake | Species: Pikachu | Category: Season 7
+Name: Pancake | Species: Alolan Raichu | Category: Season 7
+Name: Tokyo Lights | Species: Plusle | Category: Season 5
+Name: Kyoto Nights | Species: Plusle | Category: Season 5
+Name: xX Brat Xx | Species: Pachirisu | Category: Season 4
+Name: Hamtaro | Species: Dedenne | Category: Season 5
+Name: Reneigh | Species: Mudbray | Category: Season 7
+Name: Reneigh | Species: Mudsdale | Category: Season 7
+Name: Pleeko | Species: Wingull | Category: Season 7
+Name: Pelipper | Species: Pelipper | Category: Season 7
+Name: Squishy | Species: Azurill | Category: Season 3
+Name: Squishy | Species: Marill | Category: Season 3
+Name: Squishy | Species: Azumarill | Category: Season 3
+Name: Plushii | Species: Stufful | Category: Season 7
+Name: Plushii | Species: Bewear | Category: Season 7
+Name: Nahida | Species: Budew | Category: Season 4
+Name: Nahida | Species: Roselia | Category: Season 4
+Name: Nahida | Species: Roserade | Category: Season 4
+Name: Nahid’eux | Species: Budew | Category: Season 5
+Name: Nahid’eux | Species: Roselia | Category: Season 5
+Name: Nahid’eux | Species: Roserade | Category: Season 5
+Name: Chihiro | Species: Goldeen | Category: Season 7
+Name: Chihiro | Species: Seaking | Category: Season 7
+Name: Face Tuna | Species: Bruxish | Category: Season 7
+Name: Jinsoul | Species: Finneon | Category: Season 4
+Name: Jinsoul | Species: Lumineon | Category: Season 4
+Name: Shinxz | Species: Mareep | Category: Veterans
+Name: Shinxz | Species: Flaaffy | Category: Veterans
+Name: Shinxz | Species: Ampharos | Category: Veterans
+Name: CashmereDoll | Species: Mareep | Category: Veterans
+Name: CashmereDoll | Species: Flaaffy | Category: Veterans
+Name: CashmereDoll | Species: Ampharos | Category: Veterans
+Name: Mr. Fluff | Species: Minccino | Category: Season 7
+Name: Mr. Fluff | Species: Cinccino | Category: Season 7
+Name: Poppy | Species: Flabebe | Category: Season 5
+Name: Poppy | Species: Floette | Category: Season 5
+Name: Poppy | Species: Florges | Category: Season 5
+Name: Fugue | Species: Alolan Vulpix | Category: Season 7
+Name: Fugue | Species: Alolan Ninetales | Category: Season 7
+Name: Chappel | Species: Ponyta | Category: Season 4
+Name: Chappel | Species: Rapidash | Category: Season 4
+Name: Clown Lee | Species: Mime Jr. | Category: Season 7
+Name: Clown Lee | Species: Mr. Mime | Category: Season 7
+Name: Emma Star | Species: Staryu | Category: Season 7
+Name: Emma Star | Species: Starmie | Category: Season 7
+Name: Joanne | Species: Miltank | Category: Season 5
+Name: Morticia | Species: Alolan Marowak | Category: Season 6
+Name: Kali Mari | Species: Inkay | Category: Season 5
+Name: Kali Mari | Species: Malamar | Category: Season 5
+Name: Josue | Species: Togepi | Category: Veterans
+Name: Josue | Species: Togetic | Category: Veterans
+Name: Josue | Species: Togekiss | Category: Veterans
+Name: Eevee | Species: Eevee | Category: Season 4
+Name: Glindeon | Species: Sylveon | Category: Season 5
+Name: Tyra Bangs | Species: Glaceon | Category: Season 4
+Name: Britney Jean | Species: Spinda | Category: Season 6
+Name: Mittenz | Species: Alolan Meowth | Category: Season 7
+Name: Mittens | Species: Alolan Persian | Category: Season 7
+Name: Roman | Species: Smoochum | Category: Season 6
+Name: Roman | Species: Jinx | Category: Season 6
+Name: Jeli Q Cumber | Species: Pyukumuku | Category: Season 7
+Name: USAGI | Species: Cleffa | Category: Season 4
+Name: USAGI | Species: Clefairy | Category: Season 4
+Name: USAGI | Species: Clefable | Category: Season 4
+Name: Botox | Species: Igglybuff | Category: Season 6
+Name: Botox | Species: Jigglypuff | Category: Season 6
+Name: Botox | Species: Wigglytuff | Category: Season 6
+Name: Lebkuchen | Species: Swirlix | Category: Season 5
+Name: Lebkuchen | Species: Slurpuff | Category: Season 5
+Name: Pleigh Doe | Species: Ditto | Category: Season 7
+Name: Vertoxika | Species: Salandit | Category: Season 7
+Name: Vertoxika | Species: Salazzle | Category: Season 7
+Name: Amy Rose | Species: Tinkatink | Category: Season 6
+Name: Amy Rose | Species: Tinkatuff | Category: Season 6
+Name: Amy Rose | Species: Tinkaton | Category: Season 6
+Name: Hellina | Species: Houndour | Category: Season 4
+Name: Hellina | Species: Houndour | Category: Season 4
+Name: xXD4RK4NGLXx | Species: Absol | Category: Season 5
+Name: Jeli P Bob | Species: Shellos | Category: Season 4
+Name: Jeli P Bob | Species: Gastrodon | Category: Season 4
+Name: Gnarly | Species: Girafarig | Category: Season 6
+Name: Gnarly | Species: Farigiraf | Category: Season 6
+Name: What Eva | Species: Bounsweet | Category: Season 7
+Name: What Eva | Species: Steenee | Category: Season 7
+Name: What Eva | Species: Tsareena | Category: Season 7
+Name: Hana Lulu | Species: Fomantis | Category: Season 7
+Name: Hana Lulu | Species: Lurantis | Category: Season 7
+Name: Rouge | Species: Woobat | Category: Season 5
+Name: Rouge | Species: Swoobat | Category: Season 5
+Name: B.B. Bells | Species: Chingling | Category: Season 6
+Name: B.B. Bells | Species: Chimecho | Category: Season 6
+Name: Lemonsalsa | Species: Oricorio | Category: Season 7
+Name: Montoya | Species: Misdreavus | Category: Season 4
+Name: Montoya | Species: Mismagius | Category: Season 4
+Name: Agatha | Species: Misdreavus | Category: Season 6
+Name: Agatha | Species: Mismagius | Category: Season 6
+Name: Elgyem | Species: Elygem | Category: Season 6
+Name: Beeheeyem | Species: Beeheeyem | Category: Season 6
+Name: Hope | Species: Minior (Yellow) | Category: Season 7
+Name: Starburst | Species: Minior (Pink) | Category: Season 7
+Name: Furina Lapis | Species: Lapras | Category: Season 5
+Name: KeyKeyPalmer | Species: Klefki | Category: Season 5
+Name: VRTL ANGL | Species: Porygon | Category: Season 6
+Name: VRTL ANGL | Species: Porygon 2 | Category: Season 6
+Name: VRTL ANGL | Species: Porygon Z | Category: Season 6
+Name: Wendy Dae | Species: Swablu | Category: Season 4
+Name: Wendy Dae | Species: Altaria | Category: Season 4
+Name: BB Fangz | Species: Noibat | Category: Season 7
+Name: BB Fangz | Species: Noivern | Category: Season 7
+Name: Facade | Species: Zorua | Category: Season 7
+Name: Facade | Species: Zoroark | Category: Season 7
+Name:  Janna | Species: Castform | Category: Season 7
+Name: Lilly Root | Species: Lilleep | Category: Season 6
+Name: Lilly Root | Species: Cradily | Category: Season 6
+Name: Rinka | Species: Amaura | Category: Season 5
+Name: Rinka | Species: Amaurus | Category: Season 5
+Name: Kamalass | Species: Snorunt | Category: Season 4
+Name: Kamalass | Species: Froslass | Category: Season 4
+Name: Osaka | Species: Mawile | Category: Season 6
+Name: Shebuya | Species: Mawile | Category: Season 6
+Name: Pink Lady | Species: Applin | Category: Season 6
+Name: Pink Lady | Species: Appletun | Category: Season 6
+Name: Burlap Doll | Species: Mimikyu | Category: Season 7
+Name: Niblette | Species: Gible | Category: Season 4
+Name: Niblette | Species: Gabite | Category: Season 4
+Name: Niblette | Species: Garchomp | Category: Season 4
+Name: Miss Bag | Species: Cosmog | Category: Season 7
+Name: Miss Bag | Species: Cosmoem | Category: Season 7
+Name: B1NC0R | Species: Happiny | Category: Legends
+Name: B1NC0R | Species: Chansey | Category: Legends
+Name: B1NC0R | Species: Blissey | Category: Legends
+Name: Regirock | Species: Regirock | Category: Legends
+Name: Mio | Species: Gardevoir | Category: Legends
